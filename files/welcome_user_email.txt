@@ -1,0 +1,20 @@
+{{welcomeTitle}}
+
+{{welcomeMessage}}
+
+{{emailLabel}}: {{email}}
+
+{{passwordLabel}}:
+{{password}}
+
+⚠️ {{securityWarning}}
+
+{{loginButton}}:
+{{loginUrl}}
+
+{{additionalInfo}}
+
+---
+{{appName}}
+{{footerText}}
+{{autoEmailText}}

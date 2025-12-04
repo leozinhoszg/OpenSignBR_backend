@@ -1,0 +1,14 @@
+Bem-vindo ao {{appName}}!
+
+Obrigado por se cadastrar! Para começar a usar sua conta, precisamos verificar seu endereço de e-mail.
+
+Clique no link abaixo para verificar seu endereço de e-mail:
+
+{{{link}}}
+
+ℹ️ Este link expirará em 24 horas. Se você não criou uma conta, ignore este e-mail.
+
+---
+{{appName}}
+Por favor, não responda a este e-mail. Esta é uma mensagem automática.
+Este e-mail foi enviado automaticamente pelo sistema.
