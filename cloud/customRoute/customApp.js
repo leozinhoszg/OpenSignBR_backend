@@ -24,4 +24,5 @@ app.get('/delete-account/:userId', deleteUserGet);
 app.post('/delete-account/:userId/otp', deleteUserOtp);
 app.post('/delete-account/:userId', deleteUserPost);
 app.post('/deleteuser/:userId', deleteUserByAdmin);
+app.delete('/deleteuser/:userId', deleteUserByAdmin); // Suporte adicional para método DELETE
 app.get('/verify/:docId', verifyCertificatePage);
